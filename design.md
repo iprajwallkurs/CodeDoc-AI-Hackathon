@@ -3,7 +3,7 @@
 ## Team Information
 
 - **Team Name:** DoomStack
-- **Team Leader Name:** Prajwal L K Urs
+- **Team Leader Name:** Hemanth
 - **Problem Statement:** AI for Learning & Developer Productivity
 - **Challenge:** Challenge 4 [Student Track] AI for Learning & Developer Productivity
 
