@@ -46,7 +46,7 @@ CodeDoc AI is an AI-powered documentation generator that automatically creates p
 - Achieve 60% improvement in code maintainability
 - Generate 1000+ documentation files
 
-## Timeline
+<!--/ ## Timeline
 - Phase 1 (Feb 6-7): MVP development with core features
 - Phase 2 (Feb 8-15): UI refinement and multi-language support
 - Phase 3 (Feb 16+): Production deployment and user feedback
@@ -54,4 +54,4 @@ CodeDoc AI is an AI-powered documentation generator that automatically creates p
 ## Team Expertise
 - **Backend/ML Engineer:** AI/ML implementation, prompt engineering
 - **Full-stack Developer:** UI infrastructure, API development
-- **Team Lead:** Product vision and project management
+- **Team Lead:** Product vision and project management' /-->
